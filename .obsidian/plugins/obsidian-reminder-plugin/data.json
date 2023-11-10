@@ -7,6 +7,18 @@
         "time": "2023-11-13",
         "rowNumber": 0
       }
+    ],
+    "sysadmin/Git + Dropbox + Obsidian.md": [
+      {
+        "title": "check for sync issues asap",
+        "time": "2023-11-13",
+        "rowNumber": 28
+      },
+      {
+        "title": "set up automatic pushing to github asap. Need it post-Dropbox-sync. Is this possible?",
+        "time": "2023-11-13",
+        "rowNumber": 29
+      }
     ]
   },
   "debug": false,
