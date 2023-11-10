@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    ".git/",
+    ".gitignore"
+  ],
+  "newFileLocation": "current"
+}
