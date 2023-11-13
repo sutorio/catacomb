@@ -14,5 +14,6 @@
     <p>Waking at four-thirty in the morning, after exercising, showering and breakfasting, he would sit down to prepare a final, final revision timetable, which would condense three months of revision into twelve short hours. This done, he would give up and go back to bed. Maybe he didn't know a single thing about astronavigation, but at least he'd be fresh for the exam the next day.</p>
     <p>Which is why Rimmer failed exams.</p>
   </blockquote>
-  <figcaption>From <cite>Infinity Welcomes Careful Drivers</cite> by Rob Grant & Doug Naylor</figcaption>
+  <br />
+  <figcaption>From <cite>"Infinity Welcomes Careful Drivers"</cite>, by Rob Grant & Doug Naylor</figcaption>
 </figure>
