@@ -21,13 +21,12 @@ Repeat.
 
 This is going to use Rust initially. I am interested in [[parser_combinators]], so [Nom](https://github.com/rust-bakery/nom) would seem to be the obvious choice.
 
-However there are reasons *not* to use a parser combinator approach. The libraries seem to be rarely comprehensively documented, and often lack a wealth of examples. There seems to be a symptom prevalent in functional languages present here: they are "easy", and don't need much documentation. Once you know how to use them, this is true, but getting to a point where they can be wielded with confidence is a different matter.
+However there are reasons *not* to use a parser combinator approach. The libraries seem to be rarely comprehensively documented, and often lack a wealth of examples. There seems to be a symptom prevalent in functional languages present here: they are "easy" or "simple", and therefore don't need much documentation. Small self explanatory functions! No need for piles of examples! Once you know how to use them, this may well be true, but getting to a point where a given library can be wielded with confidence is a different matter.
 
-So I also want to look at few other things:
+So I also want to look at several approaches:
 
 1. The [[PEG]] parser framework [Pest](https://github.com/pest-parser/pest)
-3. 
+2. The lexer [Logos](https://www.github.com/maciejhirsz/logos). This I suspect is going to be the easiest to use and the most obvious in terms of code, but need to see. 
+3. The [unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation) crate, which (unsurprisingly) provides iterators for processing Unicode text strings.
 
-Aim is also to use Elixir: Dashbit maintain [Nimble Parsec](https://github.com/dashbitco/nimble_parsec), and that combined with  Phoenix Liveview app is tempting. Note that Rust code can just be compiled down to a (safe) [NIF](https://www.erlang.org/doc/tutorial/nif.html) using the [Rustler](https://github.com/rusterlium/rustler) library. So parsers (be they combinator-based or not) can be _relatively_ easily integrated into an Elixir codebase regardless.
-
-I'm going to test a few 
+Aim is also to make a try with Elixir: Dashbit maintain [Nimble Parsec](https://github.com/dashbitco/nimble_parsec), and that combined with  Phoenix Liveview app is tempting. Note that Rust code can just be compiled down to a (safe) [NIF](https://www.erlang.org/doc/tutorial/nif.html) using the [Rustler](https://github.com/rusterlium/rustler) library. So parsers (be they combinator-based or not) can be _relatively_ easily integrated into an Elixir codebase regardless.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/parsing_yaks/first dictionary.md",
+                "file": "articles/parsing_yaks/preface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/parsing_yaks/first dictionary.md",
+                "file": "articles/parsing_yaks/preface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/parsing_yaks/first dictionary.md",
+                "file": "articles/parsing_yaks/preface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/parsing_yaks/first dictionary.md"
+                "file": "articles/parsing_yaks/preface.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "afa0c1783364d4df",
   "lastOpenFiles": [
+    "articles/parsing_yaks/first dictionary.md",
     "README.md",
     "articles/parsing_yaks/index.md",
     "articles/parsing_yaks/preface.md",
-    "articles/parsing_yaks/first dictionary.md",
     "kb/appendices.md",
     "templates/core_note.md",
     "kb/context-free grammar.md",
