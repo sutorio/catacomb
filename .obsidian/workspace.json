@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sysadmin/Git + Dropbox + Obsidian.md",
+                "file": "articles/parsing_yaks/first dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sysadmin/Git + Dropbox + Obsidian.md",
+                "file": "articles/parsing_yaks/first dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sysadmin/Git + Dropbox + Obsidian.md",
+                "file": "articles/parsing_yaks/first dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sysadmin/Git + Dropbox + Obsidian.md"
+                "file": "articles/parsing_yaks/first dictionary.md"
               }
             }
           },
@@ -161,27 +161,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "afa0c1783364d4df",
   "lastOpenFiles": [
+    "README.md",
+    "articles/parsing_yaks/index.md",
+    "articles/parsing_yaks/preface.md",
+    "articles/parsing_yaks/first dictionary.md",
+    "kb/appendices.md",
+    "templates/core_note.md",
+    "kb/context-free grammar.md",
+    "kb/Git + Dropbox + Obsidian.md",
+    "kb/managing references.md",
+    "kb/railroad diagram.md",
+    "kb/style guides (writing).md",
+    "kb/vale.md",
+    "projects/bookshop.md",
+    "styles/write-good/Passive.yml",
+    "styles/proselint/Diacritical.yml",
+    "styles/proselint/CorporateSpeak.yml",
+    "styles/alex/Condescending.yml",
+    "styles/proselint/DateMidnight.yml",
+    "styles/proselint/Currency.yml",
+    "styles/alex/ProfanityLikely.yml",
+    "styles/proselint/Cliches.yml",
+    "styles/write-good/Cliches.yml",
+    "styles/alex/Ablist.yml",
+    "core/test.md",
+    "core/anagram generator.md",
+    "core/context-free grammar.md",
+    "projects/railroad_diagram_generator.md",
+    "writing/grammar_rules.md",
+    "notes/PEG.md",
+    "sutorio_articles/parsing_yaks/notes/parser_combinators.md",
+    "sutorio_articles/parsing_yaks/02_parsing_a_simple_dictionary/index.md",
+    "articles/parsing_yaks/notes_on_grammar_rules.md",
+    "sutorio_articles/parsing_yaks/01_introduction/index.md",
+    "sutorio_articles/parsing_yaks/02_parsing_a_simple_dictionary.md",
     "TASKS.md",
-    "sysadmin/Git + Dropbox + Obsidian.md",
-    "writing/railroad diagram.md",
-    "writing/managing references.md",
-    "writing/appendices.md",
-    "writing/style guides.md",
-    "ASSETS",
-    "New folder",
-    "_assets",
-    "design",
-    "sutorio_articles/parsing_yaks",
-    "sutorio_articles",
-    "sysadmin",
-    "writing/footnotes.md",
-    "research_data",
-    "research",
-    "writing"
+    "writing/footnotes.md"
   ]
 }

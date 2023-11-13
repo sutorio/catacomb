@@ -2,7 +2,13 @@
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     ".git/",
-    ".gitignore"
+    ".gitignore",
+    "styles/"
   ],
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "kb",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "trashOption": "local",
+  "newLinkFormat": "relative"
 }

@@ -1,4 +1,6 @@
 [
   "obsidian-zotero-desktop-connector",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "obsidian-regex-replace",
+  "automatic-table-of-contents"
 ]

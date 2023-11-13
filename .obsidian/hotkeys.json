@@ -1,1 +1,11 @@
-{}
+{
+  "editor:open-search-replace": [],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}
